@@ -1,6 +1,7 @@
 # Hello There! 👋
 
 I'm **Ramdas Jagtap**, a passionate developer, tinkerer, and lifelong learner.
+
 🧠 Interests: Digital Design, FPGA, Integrated Circuits, Open Source
 📫 Reach me: [ramdasjagtap2002@gmail.com](mailto:ramdasjagtap2002@gmail.com)
 
@@ -25,11 +26,11 @@ I'm **Ramdas Jagtap**, a passionate developer, tinkerer, and lifelong learner.
 ## 🧰 Toolbox
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-DAE8FC?style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-DAE8FC?style=flat&logo=verilog&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![FPGA](https://img.shields.io/badge/FPGA-0095D5?style=flat&logo=verilog&logoColor=white)
 
 ---
 <!--

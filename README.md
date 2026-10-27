@@ -51,4 +51,5 @@ Mostly practice projects, picked up while learning digital design. Nothing fancy
 
 **Hardware**
 ![Basys3](https://img.shields.io/badge/Basys3%20(Artix--7)-0E7C3A?style=flat)
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat&logo=riscv&logoColor=white)
+![DE0-Nano](https://img.shields.io/badge/DE0--Nano%20(Cyclone%20IV)-0E7C3A?style=flat)
+![DE10-Lite](https://img.shields.io/badge/DE10--Lite%20(MAX%2010)-0E7C3A?style=flat)

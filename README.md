@@ -16,19 +16,21 @@
 
 ---
 
-### 🛠️ Some things I've built
+### 🌱 Things I've been learning with
 
-| Project | What it is |
+Mostly practice projects, picked up while learning digital design. Nothing fancy, but they work!
+
+| Repo | What I tried |
 |---|---|
-| [**CPU**](https://github.com/ramdasjagtap/CPU) | RISC-V processor in Verilog: PC, register file, ALU and ALU control, immediate generator, control unit, instruction and data memory |
-| [**SPI**](https://github.com/ramdasjagtap/SPI) | SPI master in SystemVerilog with configurable CPOL/CPHA, talking to a Winbond SPI slave; testbenches plus Vivado synthesis, implementation, utilization and power results |
-| [**fifo**](https://github.com/ramdasjagtap/fifo) | FIFO in Verilog, verified with an interface-based SystemVerilog testbench |
-| [**100DaysOfRTL**](https://github.com/ramdasjagtap/100DaysOfRTL) | One RTL design a day, each with a testbench: clock generator, muxes, edge detector, sequence detector, round-robin arbiter and more (days 0–26) |
-| [**ALU**](https://github.com/ramdasjagtap/ALU) | 8-bit ALU built bottom-up from gates: adders, subtractor, shifter, decoder and mux trees |
-| [**RISC-V_MYTH_workshop**](https://github.com/ramdasjagtap/RISC-V_MYTH_workshop) | TL-Verilog exercises from the RISC-V MYTH workshop: calculator, counter, Fibonacci, pipelined Pythagoras |
-| [**D-Flip-Flop**](https://github.com/ramdasjagtap/D-Flip-Flop) | D flip-flop with a SystemVerilog interface-based testbench |
-| [**7-segment-display**](https://github.com/ramdasjagtap/7-segment-display) | Counter shown on the 7-segment display of a Basys3 (Artix-7) FPGA board |
-| [**MazeSolving-Algorithms**](https://github.com/ramdasjagtap/MazeSolving-Algorithms) | Wall-follower maze-solving algorithm in C |
+| [CPU](https://github.com/ramdasjagtap/CPU) | my first go at a RISC-V processor |
+| [SPI](https://github.com/ramdasjagtap/SPI) | an SPI master talking to a Winbond chip |
+| [fifo](https://github.com/ramdasjagtap/fifo) | a FIFO, checked with a SystemVerilog testbench |
+| [100DaysOfRTL](https://github.com/ramdasjagtap/100DaysOfRTL) | one small design a day (got to day 26!) |
+| [ALU](https://github.com/ramdasjagtap/ALU) | an 8-bit ALU, built up from gates |
+| [RISC-V_MYTH_workshop](https://github.com/ramdasjagtap/RISC-V_MYTH_workshop) | exercises from a RISC-V workshop, in TL-Verilog |
+| [D-Flip-Flop](https://github.com/ramdasjagtap/D-Flip-Flop) | a D flip-flop, plus a testbench to poke at it |
+| [7-segment-display](https://github.com/ramdasjagtap/7-segment-display) | a counter on a Basys3 board's 7-segment display |
+| [MazeSolving-Algorithms](https://github.com/ramdasjagtap/MazeSolving-Algorithms) | a wall-follower maze solver in C |
 
 ### 🧰 Toolbox
 

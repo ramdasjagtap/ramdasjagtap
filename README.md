@@ -25,7 +25,7 @@ Mostly practice projects, picked up while learning digital design. Nothing fancy
 | [CPU](https://github.com/ramdasjagtap/CPU) | my first go at a RISC-V processor |
 | [SPI](https://github.com/ramdasjagtap/SPI) | an SPI master talking to a Winbond chip |
 | [fifo](https://github.com/ramdasjagtap/fifo) | a FIFO, checked with a SystemVerilog testbench |
-| [100DaysOfRTL](https://github.com/ramdasjagtap/100DaysOfRTL) | one small design a day (got to day 26!) |
+| [100DaysOfRTL](https://github.com/ramdasjagtap/100DaysOfRTL) | one small design a day (got to day 22 so far!) |
 | [ALU](https://github.com/ramdasjagtap/ALU) | an 8-bit ALU, built up from gates |
 | [RISC-V_MYTH_workshop](https://github.com/ramdasjagtap/RISC-V_MYTH_workshop) | exercises from a RISC-V workshop, in TL-Verilog |
 | [D-Flip-Flop](https://github.com/ramdasjagtap/D-Flip-Flop) | a D flip-flop, plus a testbench to poke at it |
